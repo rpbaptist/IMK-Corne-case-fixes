@@ -20,13 +20,13 @@ The problem is when your USB C cable is somewhat thicker right after the connect
 
 The problem looked like this:
 
-![MCU mismatch](pics/mcu_mismatch.jpg)
+![MCU mismatch](pics/mcu_mismatch.png)
 
 #### My solution
 
 The way to solve it was not clean. I simply filed one of the magnet connector sides flat.
 
-![filed magned connector](pics/filed_magnet.jpg)
+![filed magned connector](pics/filed_magnet.png)
 
 Another suggestion is when you are still building your Corne, to shift the the Elite-C to the left as much as possible. You can also use the righ half as master instead.
 
@@ -36,11 +36,11 @@ Another suggestion is when you are still building your Corne, to shift the the E
 
 This problem is more severe in my opinion.
 
-![TRRS mismatch](pics/trrs_mismatch.jpg)
+![TRRS mismatch](pics/trrs_mismatch.png)
 
 Again, if you use a cable with ends befor the TRRS pin, you should be fine. Personally I had a custom TRRS cable created and wanted to use it with the board.
 
-![oops](pics/jacknotfit.jpg)
+![oops](pics/jacknotfit.png)
 
 #### My solution
 
@@ -50,7 +50,7 @@ First I desoldered the jack, filed off the little plastic nubs, then bent the pi
 
 The result:
 
-![bent jack](pics/bentjack.png) ![fitted jack](pics/fitted_jack.jpg)
+![bent jack](pics/bentjack.png) ![fitted jack](pics/fitted_jack.png)
 
 I put elictrical tape over the upper TRRS connectors meant for the flip side, so the jack wouldn't touch those. Then I glued the jack to the board and fitted it with elictrical tape.
 
@@ -60,7 +60,7 @@ In hindsight I didn't even need to move it as much as I did. I think I moved it 
 
 The result:
 
-![resoldered jack](pics/resoldered_jack.jpg) 
+![resoldered jack](pics/resoldered_jack.png) 
 
 ### The OLED cover plates
 
@@ -80,7 +80,7 @@ Still, here's a tip from **dmatx** from the 40s Discord:
 
 ## End result
 
-![result](pics/result.jpg) 
+![result](pics/result.png) 
 
 ## Conclusion and thoughts
 
