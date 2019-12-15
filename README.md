@@ -11,3 +11,6 @@ The [aluminium case designed by IMKulio](https://imkulio.com/) is designed for t
 ### The MCU port
 
 The MCU port causes issues with Elite C specifically. I think the pro micro is okay.
+
+![](https://i.imgur.com/JleQCgR.jpg)
+
