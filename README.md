@@ -78,6 +78,8 @@ Still, here's a tip from **dmatx** from the 40s Discord:
 
 > use gradually finer sandpaper in multiple rounds up to 1000-1200 grit combined with wet sanding to achieve transparency
 
+Another option is to recut them and reduce the size by 1-2mm. The IMK files are in the [repo](https://github.com/foostan/crkbd/tree/master/case/acrylic_plate/imk).
+
 ## End result
 
 ![result](pics/result.png) 
@@ -87,5 +89,3 @@ Still, here's a tip from **dmatx** from the 40s Discord:
 I hope this helps anyone running into these issues.
 
 Finally, I want to say thanks to the smooth GB and making a high quality case, but I really hope these points are being taken into consideration. To me it's surprising these issues were not caught during the prototyping.
-
-Additionally I hope the acrylic plate files become public, so anyone running into keycaps scratching the plate can let a local shop cut a slightly thinner plate and doesn't have to resolve to sanding it down themselves.
