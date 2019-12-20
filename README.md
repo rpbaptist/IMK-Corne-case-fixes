@@ -28,7 +28,7 @@ The way to solve it was not clean. I simply filed one of the magnet connector si
 
 ![filed magned connector](pics/filed_magnet.png)
 
-Another suggestion is when you are still building your Corne, to shift the the Elite-C to the left as much as possible. You can also use the righ half as master instead.
+Another suggestion is when you are still building your Corne, to shift the the Elite-C to the left as much as possible. You can also use the right half as master instead.
 
 ### The TRRS jacks
 
@@ -38,7 +38,7 @@ This problem is more severe in my opinion.
 
 ![TRRS mismatch](pics/trrs_mismatch.png)
 
-Again, if you use a cable with ends befor the TRRS pin, you should be fine. Personally I had a custom TRRS cable created and wanted to use it with the board.
+Again, if you use a cable with relatively thin ends before the TRRS pin, you should be fine. Personally I had a custom TRRS cable created and wanted to use it with the board.
 
 ![oops](pics/jacknotfit.png)
 
@@ -52,7 +52,7 @@ The result:
 
 ![bent jack](pics/bentjack.png) ![fitted jack](pics/fitted_jack.png)
 
-I put elictrical tape over the upper TRRS connectors meant for the flip side, so the jack wouldn't touch those. Then I glued the jack to the board and fitted it with elictrical tape.
+I put electrical tape over the upper TRRS connectors meant for the flip side, so the jack wouldn't touch those. Then I glued the jack to the board and fitted it with electrical tape.
 
 I flowed solder into the holes from underneath, then connected it from the top.
 
@@ -68,17 +68,17 @@ The result:
 
 On some keycap profiles the inner keys will hit or scratch against the acrylic OLED plates.
 
-This is most noticable with SA and was also noticible to me with MT3.
+This is most noticeable with SA and was also noticeable to me with MT3.
 
 #### My solution
 
-I simply filed down the inner edge of the plates. The edge does get cloudy instead of transparant, but that's not noticable when viewing from the top.
+I simply filed down the inner edge of the plates. The edge does get cloudy instead of transparent, but that's not noticeable when viewing from the top.
 
 Still, here's a tip from **dmatx** from the 40s Discord:
 
 > use gradually finer sandpaper in multiple rounds up to 1000-1200 grit combined with wet sanding to achieve transparency
 
-Another option is to recut them and reduce the size by 1-2mm. The IMK files are in the [repo](https://github.com/foostan/crkbd/tree/master/case/acrylic_plate/imk).
+Another option is to have them cut by a local shop them and reduce the size by 1-2mm. The IMK files are in the [repo](https://github.com/foostan/crkbd/tree/master/case/acrylic_plate/imk).
 
 ## End result
 
